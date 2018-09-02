@@ -2,7 +2,9 @@
 Ottava Bassa - Primitives and Base Library
 
 ## Credits
-Much thanks to Tom Wu for porting BigNumber and RSA implementations:
+Much thanks and appreciation to,
+
+Tom Wu for porting BigNumber and RSA implementations:
 
 http://www-cs-students.stanford.edu/~tjw/
 
