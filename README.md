@@ -13,8 +13,10 @@ http://point-at-infinity.org/jsaes/
 And, Movable Type for their Sha256 and Sha512 impelmentations:
 
 https://www.movable-type.co.uk/scripts/sha256.html
+
 https://www.movable-type.co.uk/scripts/sha512.html
 
 Released under MIT license.
+
 Copyright 2018 Fabio Garcia.
 All rights reserved.
